@@ -6,4 +6,4 @@ This is the official code provided by Pengcheng Zhao. The code will be released 
 
   [Of course, you can also try the higher version]
 ## Datasets
-For some reasons, here we only provide the [Voice-Face Dataset](https://github.com/PengchengZhao1001/Voice-Face-Dataset)
+Here we provide the [Voice-Face Dataset](https://github.com/PengchengZhao1001/Voice-Face-Dataset)
