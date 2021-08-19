@@ -6,7 +6,7 @@ This is the official code provided by Pengcheng Zhao. The code will be released 
 
   [Of course, you can also try the higher version]
 ## Datasets
-For some reasons，here we only provide the *Voice-Face Dataset*.
+For some reasons，here we only provide the [*Voice-Face Dataset*](https://github.com/PengchengZhao1001/AV-Correlation/tree/main/Voice_Face_Dataset).
 ### Overview
 The Voice_Face dataset is suitable for research in bimodal association of speech and face. It is a dataset that includes large-scale voice segments and face images aligned based on "gender and age" attributes. 
 
